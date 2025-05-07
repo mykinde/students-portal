@@ -1,9 +1,11 @@
 
 
 ## About Laravel
+students registration and download
 
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # G3 Technologies 
 ##mykinde
+
+### for full package and demo contact g3send@gmail.com
 
